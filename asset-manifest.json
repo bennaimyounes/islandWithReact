@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/islandWithReact/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/islandWithReact/static/js/main.25be1d70.chunk.js",
+    "main.js.map": "/islandWithReact/static/js/main.25be1d70.chunk.js.map",
+    "runtime-main.js": "/islandWithReact/static/js/runtime-main.003ac68d.js",
+    "runtime-main.js.map": "/islandWithReact/static/js/runtime-main.003ac68d.js.map",
+    "static/js/2.f83577cc.chunk.js": "/islandWithReact/static/js/2.f83577cc.chunk.js",
+    "static/js/2.f83577cc.chunk.js.map": "/islandWithReact/static/js/2.f83577cc.chunk.js.map",
+    "static/js/3.d9960e75.chunk.js": "/islandWithReact/static/js/3.d9960e75.chunk.js",
+    "static/js/3.d9960e75.chunk.js.map": "/islandWithReact/static/js/3.d9960e75.chunk.js.map",
+    "index.html": "/islandWithReact/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/islandWithReact/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.f83577cc.chunk.js.LICENSE.txt": "/islandWithReact/static/js/2.f83577cc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.003ac68d.js",
+    "static/js/2.f83577cc.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.25be1d70.chunk.js"
+  ]
+}
