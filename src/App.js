@@ -1,6 +1,8 @@
 import React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import { CssBaseline } from '@material-ui/core';
+import Header from './component/Header';
+import PlaceToVisit from './component/PlaceToVisite';
 
 const useStyles = makeStyles((theme) => ({
   root: {
@@ -17,6 +19,7 @@ function App() {
     <div className={classes.root}>
       <CssBaseline />
       <Header />
+      <PlaceToVisit />
     </div>
   );
 }
